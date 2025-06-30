@@ -167,7 +167,7 @@ export default function Home() {
           <section className="text-center">
             <h2 className="text-4xl  font-semibold">De la manito siempre...</h2>
             <img
-              src="/img/manito.jpeg"
+              src="/img/manito.JPEG"
               alt="Manito"
               className=" mb-36 max-w-md mx-auto rounded-xl shadow-lg"
             />
@@ -185,7 +185,7 @@ export default function Home() {
             <h2 className="text-4xl text-center text-pink-600 font-bold mb-8">Mi persona Fav 💘🌻</h2>
 
             <div className="flex flex-wrap justify-center gap-8 mb-24">
-              <Polaroid src="/img/momo.jpeg" caption="Mi momo preciosa como un girasol en el atardecer" />
+              <Polaroid src="/img/momo.JPEG" caption="Mi momo preciosa como un girasol en el atardecer" />
             </div>
           </section>
 
@@ -222,7 +222,7 @@ export default function Home() {
             <h2 className="text-4xl text-center text-pink-600 font-bold mb-8">Los momos chikitos forever ❤️</h2>
 
             <div className="flex flex-wrap justify-center gap-8 mb-24">
-              <Polaroid src="/img/chikitos.jpeg" caption="" />
+              <Polaroid src="/img/chikitos.JPEG" caption="" />
             </div>
           </section>
 
@@ -231,7 +231,7 @@ export default function Home() {
 
 
             <img
-              src="/img/pipiri.png"
+              src="/img/pipiri.PNG"
               alt="Manito"
               className="mt-32 w-64 mx-auto "
             />
@@ -257,7 +257,7 @@ export default function Home() {
                     &times;
                   </button>
                   <img
-                    src="/img/momoia.jpeg"
+                    src="/img/momoia.JPEG"
                     alt="Recuerdo especial"
                     className="rounded-md w-full h-auto object-cover"
                   />
